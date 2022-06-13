@@ -64,3 +64,11 @@ body {
     margin-bottom: 1.5rem;
   }
 }
+@media screen and (max-width: 400px) {
+  .container p {
+    font-size: 1.4rem;
+  }
+  .container h1 {
+    font-size: 1.8rem;
+  }
+}
